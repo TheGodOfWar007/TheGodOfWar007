@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/neelaksh-singh-0389b017b/)](https://www.linkedin.com/in/neelaksh-singh-0389b017b/)
 [![Github Followers](https://img.shields.io/github/followers/TheGodOfWar007)](https://img.shields.io/github/followers/TheGodOfWar007)
 
-[![Neelaksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheGodOfWar007&layout=compact&show_icons=true&theme=dracula)
+![Neelaksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheGodOfWar007&layout=compact&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheGodOfWar007&layout=compact&langs_count=8&theme=dracula)](https://github.com/Geonhee-LEE)
 

@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTheGodOfWar007%2Fhit-counter&count_bg=%2329C69F&title_bg=%234F4F4F&icon=&icon_color=%23C1BFBF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:neelaksh2001@gmail.com)](mailto:neelaksh2001@gmail.com)
 
 ![Neelaksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheGodOfWar007&layout=compact&show_icons=true&theme=dracula)
 
